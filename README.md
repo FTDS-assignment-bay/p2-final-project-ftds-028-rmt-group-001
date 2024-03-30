@@ -2,10 +2,10 @@
 (overview terkait project)
 
 Group Members:
-- Destriana Ramadani, enrolled as 
-- Elia Oktaviani, enrolled as  
-- Gita Pramoedya Sastri, enrolled as 
-- Wilona Natalie, enrolled as
+- Destriana Ramadani, enrolled as Data Engineer
+- Elia Oktaviani, enrolled as Data Analyst
+- Gita Pramoedya Sastri, enrolled as Data Scientist
+- Wilona Natalie, enrolled as Data Scientist
 
 ---
 
