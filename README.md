@@ -6,10 +6,10 @@
 - Gita Pramoedya Sastri, enrolled as Data Scientist (📝[Github](https://github.com/gitasastri), 📧[LinkedIn](https://www.linkedin.com/in/gita-pramoedya-sastri/))
 - Wilona Natalie, enrolled as Data Scientist (📝[Github](), 📧[LinkedIn](https://www.linkedin.com/in/wilonatalie/))
 
-## Project Overview
+## 📢 Project Overview
 
 
-## Background
+## ✏️ Background
 ### Problem Statement
 
 ### Objectives
