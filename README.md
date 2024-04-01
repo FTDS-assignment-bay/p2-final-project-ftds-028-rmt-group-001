@@ -22,16 +22,16 @@ The dataset used in this project is obtained from Kaggle from this link.
 The workflow is split into 3, separated by roles:
 
 #### Data Engineering
-Data Collection: 
-Data Cleaning: 
-Data Storage: 
+- Data Collection: 
+- Data Cleaning: 
+- Data Storage: 
 #### Data Science
-Model Development:
-Model Optimization: 
+- Model Development:
+- Model Optimization: 
 #### Data Analysis
-Data Interpretation: 
-Visualization: 
-Reporting: 
+- Data Interpretation: 
+- Visualization: 
+- Reporting: 
 
 ## Stack
 - **Docker**: 
