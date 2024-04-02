@@ -10,12 +10,14 @@
 
 
 ## ✏️ Background
+
 ### Problem Statement
+When it comes to the beauty industry, there is a vast array of products available to address different skin types, concerns, and preferences. However, the abundance of options can be overwhelming for customers. To assist users in finding the right products, a beauty product recommendation system can be developed. This system provides personalized recommendations based on the user's specific needs and preferences. 
 
 ### Objectives
 
 ### Dataset
-The dataset used in this project is obtained from Kaggle from this link.
+The dataset used in this project is obtained from Kaggle from this [link](https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website).
 
 ## Project Structure
 ### Workflow
