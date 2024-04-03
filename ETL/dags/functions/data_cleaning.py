@@ -1,18 +1,24 @@
 def textPreprocessing(text):
+    '''
+    This function preprocesses the given text by removing noise, converting to lowercase, removing stopwords, and lemmatizing. 
+    '''
+    # Import necessary libraries
     import re
     import nltk
     
+    # Download required NLTK resources
     nltk.download('stopwords')
     nltk.download('punkt')
     nltk.download('wordnet')
 
+    # Import NLTK modules for text preprocessing
     from nltk.stem import WordNetLemmatizer
     from nltk.tokenize import word_tokenize
     from nltk.corpus import stopwords
 
     # Define additional stopwords to be added to the default English stopwords list
-    additional_stopwords = ['Know', 'know', 'need', 'redeemed', 'Contains', 's', 'U S', 'JCPenny Store', 'inside JCPenny']
-
+    additional_stopwords = ['know', 'need', 'contains', 's', 'u s', 'u', 'jcpenny store', 'inside jcpenny', 'help', 'formula', 'formulated','oz', 'ml', 'contains oz', 'category others', 'please visit', 'inside jcpenny', 'jcpenny store', 'help', 'provide']
+    
     # Retrieve the default English stopwords list and add additional stopwords
     stpwrd = list(set(stopwords.words('english')))
     for i in additional_stopwords:
@@ -48,10 +54,15 @@ def textPreprocessing(text):
     return text
 
 def dataCleaning():
-    # Read csv file
+    '''
+    This function loads a CSV file, performs data cleaning tasks like dropping missing values, renaming columns, dropping duplicates, 
+    and applies text preprocessing to a specific column, then saves the cleaned data back to a CSV file.
+    '''
+    # import library
     import pandas as pd
 
-    df = pd.read_csv('/opt/airflow/data/product_data_clean.csv')
+    # Read csv file
+    df = pd.read_csv('/opt/airflow/data/sephora_website_clean.csv')
 
     # Drop missing values
     df = df.dropna()
@@ -72,4 +83,4 @@ def dataCleaning():
     df['preprocessing_details_category'] = df['details_category'].apply(lambda x: textPreprocessing(x))
 
     # Save data to csv
-    df.to_csv('/opt/airflow/data/product_data_clean.csv', index=False)
+    df.to_csv('/opt/airflow/data/sephora_website_clean.csv', index=False)

@@ -1,11 +1,16 @@
-# Define a function to concatenate columns and create a new category column
 def concatColumns():
+    '''
+    This function concatenates two columns ('category' and 'new_category') from the DataFrame, applies some preprocessing steps to create a new category column, 
+    concatenates this new category with another column ('details'), and writes the modified DataFrame to a new CSV file. Additionally, it loads a dictionary 
+    containing category mappings using joblib.
+    '''
+    # import library
     import pandas as pd
     import numpy as np
     from joblib import load
 
     # Read file csv
-    df = pd.read_csv('/opt/airflow/data/product_data_raw.csv')
+    df = pd.read_csv('/opt/airflow/data/sephora_website_dataset.csv')
     dict_cat= load('dict_cat.joblib')
 
     # Define conditions for mapping categories using the loaded dictionary
@@ -56,4 +61,4 @@ def concatColumns():
     df.drop('cat',axis=1, inplace=True)
 
     # Write the modified DataFrame to a new CSV file
-    df.to_csv('/opt/airflow/data/product_data_clean.csv', index=False)
+    df.to_csv('/opt/airflow/data/sephora_website_clean.csv', index=False)

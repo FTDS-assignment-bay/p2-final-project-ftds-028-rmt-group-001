@@ -17,7 +17,7 @@ default_args = {
 
 with DAG('ETL',
          default_args=default_args,
-         schedule_interval = '30 6 * * *' # Shedule every day in 6:30
+         schedule_interval = '30 6 * * *'
          ) as dag:
 
     get_data_from_database = PythonOperator(task_id='Get_Data_From_Database',
