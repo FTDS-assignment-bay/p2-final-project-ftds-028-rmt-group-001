@@ -38,7 +38,8 @@ The workflow is split into 3, separated by roles:
 - Reporting: Create a comprehensive report using your collected findings and insights.
 
 ## Results
-Furthermore, all of our visualisations are also available on [Tableau](https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.)
+Furthermore, all of our visualisations are also available on [Project Visualization](https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.) and [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes)
+
 
 And our deployment can be accessed on [Hugging Face]()
  
