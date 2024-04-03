@@ -41,7 +41,8 @@ The workflow is split into 3, separated by roles:
 Furthermore, all of our visualisations are also available on [Project Visualization](https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.) and [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes)
 
 
-And our deployment can be accessed on [Hugging Face]()
+And our deployment can be accessed on 
+[streamlit](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/bit.ly_49ok6dS%20(3).png)
  
 
 
