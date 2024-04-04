@@ -1,5 +1,5 @@
 # Final Project Group 1 RMT 028
-   ![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo(1).png)
+   ![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logoPickr.png)
 
 ## 🚨Group Members🚨:
 - Destriana Ramadani, enrolled as Data Engineer (📝[Github](), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
@@ -41,10 +41,10 @@ The workflow is split into 3, separated by roles:
 Furthermore, all of our visualisations are also available on [Project Visualization](https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.) and [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes)
 
 
-And our deployment can be accessed on [streamlit](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/bit.ly_49ok6dS%20(3).png)
+And our deployment can be accessed on [streamlit](https://pikrapp.streamlit.app/)
 
 
-![streamlit](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/bit.ly_49ok6dS%20(3).png)
+![streamlit](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/barcode.png)
 
  
 
