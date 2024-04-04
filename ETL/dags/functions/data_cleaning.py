@@ -82,5 +82,8 @@ def dataCleaning():
     #  Calling text processing
     df['preprocessing_details_category'] = df['details_category'].apply(lambda x: textPreprocessing(x))
 
+    # Concat brand column to'preprocessing_details_category'
+    df['preprocessing_details_category'] = df['brand']+' '+df['preprocessing_details_category']
+
     # Save data to csv
     df.to_csv('/opt/airflow/data/sephora_website_clean.csv', index=False)
