@@ -7,7 +7,7 @@
 - Wilona Natalie, enrolled as Data Scientist (📝[Github](), 📧[LinkedIn](https://www.linkedin.com/in/wilonatalie/))
 
 ## 📢 Project Overview
-![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/pikrlogo.png)
+![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo.png)
 
 ## ✏️ Background
 
