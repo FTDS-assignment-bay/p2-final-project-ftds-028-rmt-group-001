@@ -1,5 +1,5 @@
 # Final Project Group 1 RMT 028
-![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo(1).png width=100)
+![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo(1).png)
 
 ## 🚨Group Members🚨:
 - Destriana Ramadani, enrolled as Data Engineer (📝[Github](), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
