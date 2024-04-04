@@ -1,5 +1,5 @@
 # Final Project Group 1 RMT 028
-![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo(1).png)
+   ![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logo(1).png)
 
 ## 🚨Group Members🚨:
 - Destriana Ramadani, enrolled as Data Engineer (📝[Github](), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
@@ -22,7 +22,7 @@ When it comes to the beauty industry, there is a vast array of products availabl
 ### Dataset
 The dataset used in this project is obtained from Kaggle from this [link](https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website).
 
-## Project Structure
+## 🗓️ Project Structure
 ### Workflow
 The workflow is split into 3, separated by roles:
 
@@ -37,7 +37,7 @@ The workflow is split into 3, separated by roles:
 - Visualization: Created visual representations to simplify complex information, making it more accessible.
 - Reporting: Create a comprehensive report using your collected findings and insights.
 
-## Results
+## 🎁 Results
 Furthermore, all of our visualisations are also available on [Project Visualization](https://public.tableau.com/views/FinalProject_17119788212420/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link.) and [Exploratory Data Analysis](https://public.tableau.com/app/profile/elia.oktaviani/viz/FinalProjectEDA_17121230420550/Dashboard2?publish=yes)
 
 
