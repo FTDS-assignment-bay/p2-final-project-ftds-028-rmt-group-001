@@ -44,7 +44,7 @@ Furthermore, all of our visualisations are also available on [Project Visualizat
 And our deployment can be accessed on [streamlit](https://pickrapp.streamlit.app/)
 
 
-![streamlit](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/bit.ly_streamlitpickr.png)
+![streamlit]()
 
  
 
