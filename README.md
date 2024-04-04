@@ -1,4 +1,4 @@
-# Final Project Group 1 RMT 028
+# Final Project: RMT-028 Group 001
    ![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logoPickr.png)
 
 ## 🚨Group Members🚨:
